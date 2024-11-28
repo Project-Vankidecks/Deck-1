@@ -1,4 +1,4 @@
-# Numerals 1–12 in Arabic (Modern Standard)
+# Counting numerals 1–12 in Arabic (Modern Standard)
 
 **Deck ID**: #1
 
@@ -25,7 +25,6 @@ Example:
 All Git commits in this repository have been copyrighted (automatically, under the Berne Convention) by Project Vankideck contributors, with the following exception:
 
 - Copyright is deemed to have been transferred to another entity, if the original contributor has explicitly indicated that it be so.
-  
 
 All Git commits in this repository are licensed under the Creative Commons Attribution-ShareAlike 4.0 International licence.<sup>a</sup> There is the following exception:
 
